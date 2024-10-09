@@ -39,5 +39,3 @@ El usuario va a tener su nombre y edad, va a tener un schema embebido de user pa
 
 1. Clona este repositorio
 2. Instala las dependencias con `npm install`
-3. Configura las variables de entorno necesarias (por ejemplo, la conexión a la base de datos)
-4. Ejecuta el proyecto con `npm start`
